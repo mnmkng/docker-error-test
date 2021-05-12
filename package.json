@@ -1,0 +1,11 @@
+{
+    "name": "my-actor",
+    "version": "0.0.1",
+    "dependencies": {
+        "apify": "^1.1.2"
+    },
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Me!"
+}
